@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #ffffff;
+    height: 100%;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+body {
+    margin: 0 5%;
+    height: 100%; 
+    background-image: linear-gradient(to bottom right,#C4D5C9, #3D734C );
+}
+header {
+ 
+    margin: 0;
+
+    padding: 20px 10px 10px 10px;
+}
+h1 {
+    margin: 0;
+    padding: 20px 10px 10px 20px;
+}
+h2 {
+    margin: 0;
+    padding: 0px 10px 10px 20px;
+}
+p{
+    padding: 0px 0px 0px 30px;
+}
